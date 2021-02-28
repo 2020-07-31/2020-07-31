@@ -20,3 +20,9 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&link=https://Java.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-F7DF1E?style=flat&logo=JavaScript&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
