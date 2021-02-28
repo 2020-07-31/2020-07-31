@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScrip&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px; color:black;"/>
+        src="http://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
