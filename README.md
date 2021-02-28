@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 - Github
 - sourcetree
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2020-07-31&theme=nightowl&show_icons=true)
+
