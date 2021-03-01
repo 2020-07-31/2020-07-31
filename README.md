@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 - HTML5 & CSS3
 
 ### 🗂 Database
-- oracle
+- Oracle
 - My-SQL
 
 ### 👏 Others
 - Git
 - Github
-- sourcetree
+- Sourcetree
 <br>
 
 ## 👩🏻‍💻 Projects
