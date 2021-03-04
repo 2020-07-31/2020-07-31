@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 -->
 # LEE SO JEONG
 > 신입 개발자 이소정입니다.<br>
+> I am a new software engineer. I'm looking for an opportunity to level up my skills.
+
 
 ## 🛠 Skills
 ### 🔙 Back-end
