@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 
 ### 👏 Others
 - Git
-- Github
-- Sourcetree
 <br>
 
 ## 👩🏻‍💻 Projects
