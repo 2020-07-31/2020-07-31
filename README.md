@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 ### 👏 Others
 - Git
 - Spring
-- ibatis
-- JSTL
+- Mybatis
 - Springboot
 - Linux
 <br>
