@@ -43,11 +43,9 @@ Here are some ideas to get you started:
 
 ### 👏 Others
 - Git
+- GitHub
 - Spring
 - Mybatis
-- Docker
-- Springboot
-- Linux
 <br>
 
 ## 👩🏻‍💻 Projects
