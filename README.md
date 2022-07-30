@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ## 📫 Contact information
 
 -->
-# LEE SO JEONG
-> Hi, I'm SoJeongLee!<br>
+# Hi, I'm SoJeongLee!
 > I'm a new software engineer. I'm looking for an opportunity to level up my skills.
 
 
