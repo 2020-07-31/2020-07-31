@@ -25,16 +25,22 @@ Here are some ideas to get you started:
 
 
 ## 🛠 Skills
-<rect xmlns="http://www.w3.org/2000/svg" width="37" height="20" fill="url(#s)"/>
+![JAVA](https://img.shields.io/badge/-JAVA-F7DF1E?style=for-the-badge&logo=JAVA&logoColor=ffffff)
+![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 <br></br>
 
 ### 🗂 Database
-- Oracle
-- MySQL
-- Tibero
-- MariaDB
+![Oracle](https://img.shields.io/badge/-Oracle-F05032?style=for-the-badge&logo=Oracle&logoColor=ffffff)
+![MYSQL](https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=ffffff)
+![TIBERO](https://img.shields.io/badge/-Tibero-007ACC?style=for-the-badge&logo=Tibero&logoColor=ffffff)
+![MARIA](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=ffffff)
+<br></br>
 
-<br>
 
 
 ## 👩🏻‍💻 Projects
