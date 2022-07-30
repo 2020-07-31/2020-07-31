@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 -->
 # LEE SO JEONG
-> 신입 개발자 이소정입니다.<br>
-> I am a new software engineer. I'm looking for an opportunity to level up my skills.
+> Hi, I'm SoJeongLee!<br>
+> I'm a new software engineer. I'm looking for an opportunity to level up my skills.
 
 
 ## 🛠 Skills
@@ -35,11 +35,13 @@ Here are some ideas to get you started:
 - JavaScript 
 - jQuery
 - Bootstrap
-- HTML5 & CSS3
+- HTML & CSS
 
 ### 🗂 Database
 - Oracle
-- My-SQL
+- MySQL
+- Tibero
+- MariaDB
 
 ### 👏 Others
 - Git
